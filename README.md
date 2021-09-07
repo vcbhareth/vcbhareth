@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vcbhareth
 - 👀 I’m interested in DevOPs and Cloud Architecture
 - 🌱 I’m currently learning Python and Cloud Architecture
-- 💞️ I’m looking to collaborate on Cloud Acrhitecture
+- 💞️ I’m looking to collaborate on DevOPs and Cloud Acrhitecture
 - 📫 How to reach me ...vcbkhigher@gmail.com
 
 <!---
